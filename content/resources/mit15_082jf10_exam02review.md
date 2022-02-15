@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT15_082JF10_exam02review.pdf
-type: OCWFile
 uid: d515618e-016f-2f38-4c25-4613ae386935
 ---

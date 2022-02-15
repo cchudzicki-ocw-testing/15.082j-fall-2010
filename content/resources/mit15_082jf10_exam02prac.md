@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT15_082JF10_exam02prac.pdf
-type: OCWFile
 uid: 2a9a8ded-254a-6c7e-57fb-f8b592e7f504
 ---
