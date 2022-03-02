@@ -21,13 +21,13 @@ EXAM MATERIALS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Midterm 2 review problems ({{< resource_link d515618e-016f-2f38-4c25-4613ae386935 "PDF" >}})
+Midterm 2 review problems ({{% resource_link d515618e-016f-2f38-4c25-4613ae386935 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Midterm 2 practice problems ({{< resource_link 2a9a8ded-254a-6c7e-57fb-f8b592e7f504 "PDF" >}})
+Midterm 2 practice problems ({{% resource_link 2a9a8ded-254a-6c7e-57fb-f8b592e7f504 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
