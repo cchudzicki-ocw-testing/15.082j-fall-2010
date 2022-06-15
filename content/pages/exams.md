@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides review materials for the midterm exam of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
