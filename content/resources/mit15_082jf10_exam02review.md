@@ -5,6 +5,7 @@ file: /courses/15-082j-network-optimization-fall-2010/d515618e016f2f384c254613ae
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
